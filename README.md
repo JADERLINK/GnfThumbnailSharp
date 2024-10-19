@@ -12,6 +12,8 @@ View Thumbnail of GNF Files in Windows 10
 
 Biblioteca responsável por permitir a visualização de miniaturas nos arquivos GNF, somente no Win 10;
 <br>Atenção: Para o funcionamento da biblioteca são mudados registros no windows, use por sua conta e risco, não me responsabilizo caso o seu sistema operacional tenha problemas devido à biblioteca.
+<br>
+<br>**Veja o tutorial de instalação [Aqui](https://github.com/JADERLINK/GnfThumbnailSharp/blob/main/Tutorial.md).**
 
 ## Third party code:
 
